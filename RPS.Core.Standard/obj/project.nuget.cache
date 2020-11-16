@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u/EP0kHvFsJ9qOCUYYaShXIptNwRKlPemgJjTEjmQlmx5P/rxHSJisCRf/SEBxakzWv9XJooCPJci06h+Yv0RQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\ProjectFiles\\finish\\RpsTrackerBlazorServerLite\\RPS.Core.Standard\\RPS.Core.Standard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

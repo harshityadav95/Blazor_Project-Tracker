@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\ProjectFiles\finish\RpsTrackerBlazorServerLite\RPS.Data.Standard\bin\Debug\netstandard2.0\RPS.Data.Standard.deps.json
+C:\Users\Administrator\Desktop\ProjectFiles\finish\RpsTrackerBlazorServerLite\RPS.Data.Standard\bin\Debug\netstandard2.0\RPS.Data.Standard.dll
+C:\Users\Administrator\Desktop\ProjectFiles\finish\RpsTrackerBlazorServerLite\RPS.Data.Standard\bin\Debug\netstandard2.0\RPS.Data.Standard.pdb
+C:\Users\Administrator\Desktop\ProjectFiles\finish\RpsTrackerBlazorServerLite\RPS.Data.Standard\bin\Debug\netstandard2.0\RPS.Core.Standard.dll
+C:\Users\Administrator\Desktop\ProjectFiles\finish\RpsTrackerBlazorServerLite\RPS.Data.Standard\bin\Debug\netstandard2.0\RPS.Core.Standard.pdb
+C:\Users\Administrator\Desktop\ProjectFiles\finish\RpsTrackerBlazorServerLite\RPS.Data.Standard\obj\Debug\netstandard2.0\RPS.Data.Standard.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ProjectFiles\finish\RpsTrackerBlazorServerLite\RPS.Data.Standard\obj\Debug\netstandard2.0\RPS.Data.Standard.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ProjectFiles\finish\RpsTrackerBlazorServerLite\RPS.Data.Standard\obj\Debug\netstandard2.0\RPS.Data.Standard.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ProjectFiles\finish\RpsTrackerBlazorServerLite\RPS.Data.Standard\obj\Debug\netstandard2.0\RPS.Data.Standard.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ProjectFiles\finish\RpsTrackerBlazorServerLite\RPS.Data.Standard\obj\Debug\netstandard2.0\RPS.Data.Standard.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ProjectFiles\finish\RpsTrackerBlazorServerLite\RPS.Data.Standard\obj\Debug\netstandard2.0\RPS.Data.Standard.dll
+C:\Users\Administrator\Desktop\ProjectFiles\finish\RpsTrackerBlazorServerLite\RPS.Data.Standard\obj\Debug\netstandard2.0\RPS.Data.Standard.pdb
